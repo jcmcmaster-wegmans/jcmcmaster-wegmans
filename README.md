@@ -1,3 +1,7 @@
+As a *persona*, I want to *goal* so that *benefit*.
+
+-----
+
 > 11:39 \<ggVGc> it's funny everyone proposed removing the V, but never suggesting the c<br/>
 11:39 \<ggVGc> too much vim golf<br/>
 11:39 \<ggVGc> not enough life<br/>
